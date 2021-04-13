@@ -1,7 +1,10 @@
-# from django.http import HttpResponse
+from django.http import HttpResponse
 from django.contrib.auth.models import User
 from django.shortcuts import render, get_object_or_404
 from django.urls import reverse_lazy
+from rest_framework.response import Response
+from rest_framework.views import APIView
+from .serializer import PostSerializer
 
 from .models import Post
 from django.views.generic import (ListView,
@@ -83,3 +86,13 @@ class PostDeleteView(LoginRequiredMixin,UserPassesTestMixin,DeleteView):
 
 def about(request):
     return render(request,'about.html',{'title':'About'})
+
+class PostList(APIView):
+
+    def get(self,request):
+        posts=Post.objects.all()
+        serializer=PostSerializer(posts,many=True)
+        return Response(serializer.data)
+
+    def post(self):
+        pass
