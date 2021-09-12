@@ -1,5 +1,5 @@
 # Django Blog
-###Login page
+### Login page
 ![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(57).png)
 ### Registration page
 ![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(52).png)
