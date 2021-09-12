@@ -1,2 +1,11 @@
 # Django Blog
 ![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(39).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(40).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(41).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(42).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(44).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(45).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(46).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(47).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(48).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(49).png)
