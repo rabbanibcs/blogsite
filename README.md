@@ -1,6 +1,6 @@
 # Django Blog
 ### Login page
-![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(57).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/login.png).png)
 ### Registration page
 ![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(52).png)
 ### Home page. Display posts with pagination.
