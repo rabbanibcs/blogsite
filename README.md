@@ -1,2 +1,2 @@
 # Django Blog
-![This is an image](/media/photos/Screenshot (39).png)
+![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(39).png)
