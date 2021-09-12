@@ -15,5 +15,5 @@
 ![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/Screenshot%20(62).png)
 ## Profile
 ![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/profile.png)
-## Password reset
+## Password reset (email comfirmation)
 ![This is an image](https://github.com/rabbanibcs/blogsite/blob/main/media/photos/pass-reset.png)
